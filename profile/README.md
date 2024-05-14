@@ -1,6 +1,6 @@
 # Discontinued Labs 🧪
 
-Welcome to Discontinued Labs – Open Source Projects 🌐
+**Welcome to Discontinued Labs – Open Source Projects 🌐**
 
 ## 📚 Overview
 
@@ -22,4 +22,4 @@ While we don't actively seek contributions, we appreciate your interest. If you 
 
 For inquiries or more information, you can reach out to us at [discontinuedlabs@gmail.com](mailto:discontinuedlabs@gmail.com).
 
-Happy coding! 🚀
+**Happy coding! 🚀**
