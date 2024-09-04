@@ -20,7 +20,14 @@ Our mission is to provide developers with useful and freely available tools, app
 
 ## Contributing
 
-While we don't actively seek contributions, we appreciate your interest. If you encounter issues or have suggestions, please feel free to open an issue.
+We welcome contributions to our projects! To get involved, please follow these steps:
+
+1. **Explore Our Projects**: Visit our [repositories](https://github.com/discontinuedlabs) to find a project that interests you.
+2. **Read the Contribution Guidelines**: Each project includes a `CONTRIBUTING.md` file with specific guidelines. Please review it before making any contributions.
+3. **Report Issues**: If you find a bug or have a suggestion, please open an issue using the provided [Issue Template](ISSUE_TEMPLATE.md) in the repository.
+4. **Submit a Pull Request**: To contribute code, fork the repository, make your changes, and submit a pull request. Use the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) to ensure all necessary information is included.
+
+**Thank you for considering contributing to our projects!**
 
 ## License
 
