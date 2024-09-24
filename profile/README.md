@@ -1,5 +1,11 @@
 # Discontinued Labs
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![GitHub stars](https://img.shields.io/github/stars/discontinuedlabs?style=social)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-expected-blue.svg)
+
 **Welcome to Discontinued Labs – Open Source Projects**
 
 ## Table of Contents
