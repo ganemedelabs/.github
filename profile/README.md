@@ -1,9 +1,9 @@
 # Discontinued Labs
 
-![License: MIT](https://img.shields.io/badge/license-MIT-9c0000.svg)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-crimson)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![GitHub stars](https://img.shields.io/github/stars/discontinuedlabs?style=flat&color=gold)
-![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-expected-blue.svg)
+![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-expected-blue)
 
 **Welcome to Discontinued Labs – Open Source Projects**
 
