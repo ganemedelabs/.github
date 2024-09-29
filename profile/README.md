@@ -1,4 +1,4 @@
-# Discontinued Labs 🧪
+# Discontinued Labs
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-crimson)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
