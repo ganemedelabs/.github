@@ -9,21 +9,21 @@
 
 ## 📋 Table of Contents
 
--   [Overview](#overview)
--   [Mission](#mission)
--   [Contributing](#contributing)
--   [License](#license)
--   [Contact](#contact)
+-   [Overview](#-overview)
+-   [Mission](#-mission)
+-   [Contributing](#-contributing)
+-   [License](#-license)
+-   [Contact](#-contact)
 
-<h2 id="overview">🌐 Overview</h2>
+## 🌐 Overview
 
 Discontinued Labs is a collection of open-source projects ranging from apps to websites and web apps. All projects under this organization are licensed under the MIT License.
 
-<h2 id="mission">🚀 Mission</h2>
+## 🚀 Mission
 
 Our mission is to provide developers with useful and freely available tools, applications, and resources. We believe in the power of open source to foster innovation and collaboration within the developer community.
 
-<h2 id="contributing">🤝 Contributing</h2>
+## 🤝 Contributing
 
 We welcome contributions to our projects! To get involved, please follow these steps:
 
@@ -34,11 +34,11 @@ We welcome contributions to our projects! To get involved, please follow these s
 
 **Thank you for considering contributing to our projects!**
 
-<h2 id="license">📜 License</h2>
+## 📜 License
 
 All projects in this organization are licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute our projects in accordance with the terms of this license.
 
-<h2 id="contact">📧 Contact</h2>
+## 📧 Contact
 
 For inquiries or more information, you can reach out to us at [discontinuedlabs@gmail.com](mailto:discontinuedlabs@gmail.com).
 
