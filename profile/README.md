@@ -1,11 +1,11 @@
-# Discontinued Labs
+# Ganymede Labs
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-crimson)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
-![GitHub stars](https://img.shields.io/github/stars/discontinuedlabs?style=flat&color=gold)
+![GitHub stars](https://img.shields.io/github/stars/ganymedelabs?style=flat&color=gold)
 ![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-expected-blue)
 
-**Welcome to Discontinued Labs – Open Source Projects**
+**Welcome to Ganymede Labs – Open Source Projects**
 
 ## 📋 Table of Contents
 
@@ -17,7 +17,7 @@
 
 ## 🌐 Overview
 
-Discontinued Labs is a collection of open-source projects ranging from apps to websites and web apps. All projects under this organization are licensed under the MIT License.
+Ganymede Labs is a collection of open-source projects ranging from apps to websites and web apps. All projects under this organization are licensed under the MIT License.
 
 ## 🚀 Mission
 
@@ -27,7 +27,7 @@ Our mission is to provide developers with useful and freely available tools, app
 
 We welcome contributions to our projects! To get involved, please follow these steps:
 
-1. **Explore Our Projects**: Visit our [repositories](https://github.com/discontinuedlabs) to find a project that interests you.
+1. **Explore Our Projects**: Visit our [repositories](https://github.com/ganymedelabs) to find a project that interests you.
 2. **Read the Contribution Guidelines**: Each project includes a `CONTRIBUTING.md` file with specific guidelines. Please review it before making any contributions.
 3. **Follow the Code of Conduct**: Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive experience for all members of our community.
 4. **Submit a Pull Request**: To contribute code, fork the repository, make your changes, and submit a pull request.
@@ -40,6 +40,6 @@ All projects in this organization are licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For inquiries or more information, you can reach out to us at [discontinuedlabs@gmail.com](mailto:discontinuedlabs@gmail.com).
+For inquiries or more information, you can reach out to us at [ganemedelabs@gmail.com](mailto:ganemedelabs@gmail.com).
 
 **Happy coding!**
