@@ -1,10 +1,5 @@
 # Ganymede Labs
 
-![License: MIT](https://img.shields.io/badge/license-MIT-crimson)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
-![GitHub stars](https://img.shields.io/github/stars/ganymedelabs?style=flat&color=gold)
-![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-expected-blue)
-
 **Welcome to Ganymede Labs – Open Source Projects**
 
 ## 📋 Table of Contents
